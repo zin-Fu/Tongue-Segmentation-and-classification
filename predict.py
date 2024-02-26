@@ -13,7 +13,7 @@ def main():
     folder_path = "./data/orin"
     cropped_img_path = "./data/cropped"
     seg_img_path = "./data/seg"
-    files = os.listdir(folder_path)
+    files = os.listdir(seg_img_path) # or cropped_img_path
 
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
