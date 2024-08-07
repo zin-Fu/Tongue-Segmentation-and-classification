@@ -22,3 +22,5 @@ If you need to perform fine-tuning, you can use the code provided in `train.py`.
 - Download the tongue segmentation model (`tonguesam.pth`) from the following link: [Download here](https://pan.baidu.com/s/1zG0jpYshlBs3lcdy4F37dQ?pwd=xtfg) (Place `tonguesam.pth` in the `./pretrained_model/` folder).
 - Download the ViT model (`ViT.pth`) from the following link: [Download here](https://drive.google.com/drive/folders/1VfsYQrWYqJkDCaKgNZb22_evbMona_fG?usp=drive_link) (Place `ViT.pth` in the `./weight/` folder).
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
