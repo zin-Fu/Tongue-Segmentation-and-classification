@@ -23,4 +23,4 @@ If you need to perform fine-tuning, you can use the code provided in `train.py`.
 - Download the ViT model (`ViT.pth`) from the following link: [Download here](https://drive.google.com/drive/folders/1VfsYQrWYqJkDCaKgNZb22_evbMona_fG?usp=drive_link) (Place `ViT.pth` in the `./weight/` folder).
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details😊.
